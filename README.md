@@ -24,8 +24,8 @@ The last property was done manually as I do not have access to an exhaustive lis
 
 The list could be improved with access to data about "concreteness" of words like in Joseph Bonneau work or the result of a french equivalent to this [vocabulary quizz](http://vocabulary.ugent.be/) from Ghent University. Those might exist but I haven't done much research. If you know of some research that could help to improve the list please contact me.
 
-#Français
-##Liste alternative de mots français pour la méthode diceware
+# Français
+## Liste alternative de mots français pour la méthode diceware
 Ce fichier texte est une alternative à cette [liste de mot français](https://raw.githubusercontent.com/chmduquesne/diceware-fr/master/diceware-fr-5-jets.txt) pour créer des phrases de passe à l'aide de la méthode diceware.
 
 Cette liste comporte plusieurs défauts, elle contient :
@@ -49,7 +49,7 @@ J'ai manuellement retiré les mots que j'ai jugé trop vulgaire et j'ai donc tr�
 
 La liste peut évidemment être améliorée si j'avais accès à des données à propos de la "concrétitude" des mots ou aux résultats d'un test français équivalent à [celui-ci](http://vocabulary.ugent.be/) de l'Université de Ghent. Ces données existent peut-être mais je n'ai pas particulièrement cherché à les obtenir. SI vuos avec connaissances de recherches linguistiques pouvant améliorer cette liste contactez moi !
 
-#Diceware
+# Diceware
 
 If you do not know about the Diceware method or how to use this list see :
 
