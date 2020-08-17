@@ -47,7 +47,7 @@ J'ai utilisé la base [Lexique 3 database](http://www.lexique.org/) pour récup�
 
 J'ai manuellement retiré les mots que j'ai jugé trop vulgaire et j'ai donc très bien pu en oublier. De plus, chacun percevant la vulgarité des mots de façon différente il se peut que vous trouviez un ou plusieurs des mots de la liste particulièrement vulgaire(s). Si vous souhaitez remplacer un mot je vous invite à faire un pull request ou à m'enovyer un message, je répondrais probablement par la positive, particulièrement si le remplacement est un mot d'usage courant.
 
-La liste peut évidemment être améliorée si j'avais accès à des données à propos de la "concrétitude" des mots ou aux résultats d'un test français équivalent à [celui-ci](http://vocabulary.ugent.be/) de l'Université de Ghent. Ces données existent peut-être mais je n'ai pas particulièrement cherché à les obtenir. SI vuos avec connaissances de recherches linguistiques pouvant améliorer cette liste contactez moi !
+La liste peut évidemment être améliorée si j'avais accès à des données à propos de la "concrétitude" des mots ou aux résultats d'un test français équivalent à [celui-ci](http://vocabulary.ugent.be/) de l'Université de Ghent. Ces données existent peut-être mais je n'ai pas particulièrement cherché à les obtenir. Si vous avez des connaissances de recherches linguistiques pouvant améliorer cette liste contactez moi !
 
 # Diceware
 
